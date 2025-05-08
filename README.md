@@ -19,8 +19,8 @@ Despite advances in AI, the lack of large-scale labeled datasets has hindered re
 ## 🚀 Highlights
 
 - 🔄 **Self-supervised diffusion-based pretraining**
-- 📚 **Multi-task generalization** across 8 categories of lung CT tasks
-- 🧠 **Few-shot learning capability** that outperforms previous state-of-the-art models
+- 📚 **Multi-task generalization** 
+- 🧠 **Few-shot learning capability**
 - 🏥 **Real-world clinical utility**: from high-level diagnosis to low-level imaging enhancement
 
 ---
