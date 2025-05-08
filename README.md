@@ -45,4 +45,4 @@ We are continuously uploading downstream task code. The following tasks are plan
 
 ## 📥 How to Use
 
-Please refer to the corresponding `README.md` files inside each subdirectory (`pretrain_code/`, `downstream_tasks/`, etc.) for detailed instructions on how to run pretraining and downstream tasks.
+Please refer to the corresponding `README.md` files inside each subdirectory for detailed instructions on how to run pretraining and downstream tasks.
