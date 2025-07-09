@@ -3,8 +3,8 @@
 **LCTfound** is a foundational model for lung computed tomography (CT), designed to empower a broad spectrum of clinical tasks with a single, robust, self-supervised learning framework.
 
 This repository provides code for:
-- 🔧 **Pretraining** based on diffusion models (completed and available)
-- 📊 **Downstream tasks** such as diagnosis, segmentation, and reconstruction (in progress and coming soon)
+- 🔧 **Pretraining** based on diffusion models
+- 📊 **Downstream tasks** such as diagnosis, segmentation, and reconstruction
 
 ---
 
